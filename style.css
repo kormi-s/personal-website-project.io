@@ -1,7 +1,9 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background: color: blue; repeat;
+  background-color: white
+    position: center
+
 }
 #wrapper {
   width: 960px;
@@ -12,4 +14,3 @@ h1,h2,h3,h4 {
 }
 #summary {
 	color:green;
-}
