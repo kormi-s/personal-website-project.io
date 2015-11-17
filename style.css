@@ -1,3 +1,11 @@
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: white;
+    background-color: #AD2136;
+}
+
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
@@ -9,8 +17,36 @@ body {
   width: 960px;
   margin: 20px auto;
 }
-h1,h2,h3,h4 {
-	color: #F44336;
-}
-#summary {
-	color:green;
+
+h5{color:#6511A2;
+font-weight: 600}
+
+.h6, h6 {
+    color: #6511A2;
+    font-size: 16px;
+    font-weight: 600;}
+
+h1{color: ##31708F;}
+
+h2,h3,h4, {
+	color: ##31708F;}
+
+
+
+  .btn-danger:hover {
+    color: #E60505;
+    background-color: white;
+    border-color: #EA093A;
+
+  }
+
+.progress-bar {
+    float: left;
+    width: 0;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #6511A2;
+  }
