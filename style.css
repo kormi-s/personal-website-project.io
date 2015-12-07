@@ -12,6 +12,20 @@ body {
   background-color: white
     position: center
 
+
+
+  img-circle {
+    border-radius: 50%;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+
+
 }
 #wrapper {
   width: 960px;
