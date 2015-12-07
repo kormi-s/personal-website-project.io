@@ -5,3 +5,17 @@
     color: white;
     background-color: #31708F;
 }
+
+
+#wrapper {
+  width: 960px;
+  margin: 20px auto;
+}
+
+h4, h5, h6, h8, h9 {
+    color: #6511A2;
+    font-size: 16px;
+    font-weight: 600;}
+
+h1{color: #31708F;}
+
